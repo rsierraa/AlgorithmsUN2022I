@@ -1,0 +1,6 @@
+para 5 pancakes, Pn es: 5
+para 6 pancakes, Pn es: 7
+para 7 pancakes, Pn es: 8
+para 8 pancakes, Pn es: 9
+para 9 pancakes, Pn es: 10
+para 10 pancakes, Pn es: 11
